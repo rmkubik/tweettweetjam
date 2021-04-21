@@ -1,0 +1,20 @@
+{
+  "name": "tweettweetjam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server fire-spread -so",
+    "build": "zip -r fire-spread.zip fire-spread"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmkubik/tweettweetjam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmkubik/tweettweetjam/issues"
+  },
+  "homepage": "https://github.com/rmkubik/tweettweetjam#readme"
+}
